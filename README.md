@@ -1,9 +1,7 @@
 **HOW TO RUN**  
 1. make
 2. ./a.out
-3. type your commands
-
-# Shell Assignment Part-1:
+3. type your commands  
 
 # shell.h : 
     Contains all the headers used. It also contains function definition and some global variables.  
@@ -48,8 +46,6 @@
 # echo.c : 
     echo() functionality is implemented here. DO NOT HANDLE THE MULTILINE INPUT.
 
-
-# SHELL ASSIGNMENT PART-II
 
 # replay.c: 
     Bonus part
