@@ -1,0 +1,20 @@
+ls
+clear
+gedit ls 
+jobs
+fg 1
+gedit ls &
+jobs
+gedit ls &
+gedit ls &
+gedit ls &
+jobs
+fg 1
+gedit ls 
+gedit ls 
+jobs
+bg 1
+jobs
+fg
+fg 1
+clear
